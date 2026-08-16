@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-uovcq6.salamcuan.online/sitemap.xml
